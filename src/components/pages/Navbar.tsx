@@ -11,12 +11,12 @@ export default function Navbar () {
   return (
   <>
   {/* Navbar on web view */}
-  <div className="relative p-2  shadow-sm">
+  <div className="relative p-2 bg-gray-100 shadow-sm">
   
     <div className="flex justify-between  items-center py-3 md:justify-start md:space-x-10">
       <div className="lg:w-0 lg:flex-1">
         <a href="/" className="flex no-underline">
-          <h3 className="text-xl text-black no-underline font-bold px-8">TigerSoft</h3>
+          <h3 className="text-2xl text-orange-950 no-underline font-bold px-8">Tiger<span className='text-amber-600 text-sm'>Soft</span></h3>
         </a>
       </div>
       <div className="-mr-2 -my-2 md:hidden">
@@ -33,18 +33,18 @@ export default function Navbar () {
           Home
         </a>
         <a href="/" className=" text-md font-normal  no-underline font-medium text-black hover:text-gray-200 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
-          About Us
+          About 
         </a>
         <a href="/" className=" text-md font-normal  no-underline font-medium text-black hover:text-gray-200 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
           Services
         </a>
         <a href="/" className=" text-md font-normal  no-underline font-medium text-black hover:text-gray-200 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
-          Career
+          Portfolio
         </a>
         <a href="/" className=" text-md font-normal  no-underline font-medium text-black hover:text-gray-200 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
-          Vision
+          Contactus
         </a>
-        <a href="/" className="bg-red-600 px-6 py-2  rounded-full text-md font-normal  no-underline font-medium text-white hover:text-gray-200 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
+        <a href="/" className="bg-amber-600 px-6 py-2  rounded-full text-md font-normal  no-underline font-medium text-white hover:text-gray-200 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
           Get Started
         </a>
         <div className="relative">
@@ -78,13 +78,16 @@ export default function Navbar () {
                Home
               </a>
               <a href="#" className="text-sm leading-6 font-medium text-black hover:text-red-500 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
-               About US
+               About 
               </a>
               <a href="#" className="text-sm leading-6 font-medium text-gray-600 hover:text-red-500 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
                Services
               </a>
               <a href="#" className="text-sm leading-6 font-medium text-gray-600 hover:text-red-500 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
-               Career
+               Portfolio
+              </a>
+              <a href="#" className="text-sm leading-6 font-medium text-gray-600 hover:text-red-500 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
+               Contactus
               </a>
               <a href="#" className="text-sm  leading-6 font-medium text-gray-600 hover:text-red-500 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
               Get Started
