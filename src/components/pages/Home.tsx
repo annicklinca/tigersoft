@@ -164,38 +164,38 @@ Tigersoft has built and delivered IT business solutions to the Government and pr
         <div className='mx-16 my-8'>
           <div className='grid grid-cols-3 gap-4'>
             <div className='bg-gray-200 p-4 hover:bg-gray-100'>
-              <img src="../images/pic2.jpg" className='px-4 py-2'/>
-              <h1 className='text-amber-600 font-semibold text-center'>BS & PI</h1>
+              <img src="../images/d5.png" className='px-4 py-2'/>
+              <h1 className='text-amber-600 font-semibold text-center text-lg'>BS & PI</h1>
+              <p>Tigersoft has developed an integrated business solution to support the issuance of internationally recognized travel documents ranging from “Laisser-Passez” to all types of passports.</p>
+            </div>
+
+            <div className='bg-gray-200 p-4 hover:bg-gray-100'>
+              <img src="../images/d1.png" className='px-4 py-2'/>
+              <h1 className='text-amber-600 font-semibold text-center text-lg'>IPPS</h1>
+              <p>Tigersoft has developed an integrated business solution to support the issuance of internationally recognized travel documents ranging from “Laisser-Passez” to all types of passports.</p>
+            </div>
+
+            <div className='bg-gray-200 p-4 hover:bg-gray-100'>
+              <img src="../images/de2.jpg" className='px-4 py-2'/>
+              <h1 className='text-amber-600 font-semibold text-center text-lg'>PMS</h1>
+              <p>Tigersoft has developed an integrated business solution to support the issuance of internationally recognized travel documents ranging from “Laisser-Passez” to all types of passports.</p>
+            </div>
+
+            <div className='bg-gray-200 p-4 hover:bg-gray-100'>
+              <img src="../images/present.png" className='px-4 py-2'/>
+              <h1 className='text-amber-600 font-semibold text-center text-lg'>MRTD</h1>
               <p>Tigersoft has developed an integrated business solution to support the issuance of internationally recognized travel documents ranging from “Laisser-Passez” to all types of passports.</p>
             </div>
 
             <div className='bg-gray-200 p-4 hover:bg-gray-100'>
               <img src="../images/pic2.jpg" className='px-4 py-2'/>
-              <h1 className='text-amber-600 font-semibold text-center'>IPPS</h1>
+              <h1 className='text-amber-600 font-semibold text-center text-lg'>FMIS</h1>
               <p>Tigersoft has developed an integrated business solution to support the issuance of internationally recognized travel documents ranging from “Laisser-Passez” to all types of passports.</p>
             </div>
 
             <div className='bg-gray-200 p-4 hover:bg-gray-100'>
-              <img src="../images/pic2.jpg" className='px-4 py-2'/>
-              <h1 className='text-amber-600 font-semibold text-center'>PMS</h1>
-              <p>Tigersoft has developed an integrated business solution to support the issuance of internationally recognized travel documents ranging from “Laisser-Passez” to all types of passports.</p>
-            </div>
-
-            <div className='bg-gray-200 p-4 hover:bg-gray-100'>
-              <img src="../images/pic2.jpg" className='px-4 py-2'/>
-              <h1 className='text-amber-600 font-semibold text-center'>MRTD</h1>
-              <p>Tigersoft has developed an integrated business solution to support the issuance of internationally recognized travel documents ranging from “Laisser-Passez” to all types of passports.</p>
-            </div>
-
-            <div className='bg-gray-200 p-4 hover:bg-gray-100'>
-              <img src="../images/pic2.jpg" className='px-4 py-2'/>
-              <h1 className='text-amber-600 font-semibold text-center'>FMIS</h1>
-              <p>Tigersoft has developed an integrated business solution to support the issuance of internationally recognized travel documents ranging from “Laisser-Passez” to all types of passports.</p>
-            </div>
-
-            <div className='bg-gray-200 p-4 hover:bg-gray-100'>
-              <img src="../images/pic2.jpg" className='px-4 py-2'/>
-              <h1 className='text-amber-600 font-semibold text-center'>EMS</h1>
+              <img src="../images/d6.jpg" className='px-4 py-2'/>
+              <h1 className='text-amber-600 font-semibold text-center text-lg'>EMS</h1>
               <p>Tigersoft has developed an integrated business solution to support the issurance of internationally recognized travel documents ranging from “Laisser-Passez” to all types of passports.</p>
             </div>
 
@@ -210,7 +210,7 @@ Tigersoft has built and delivered IT business solutions to the Government and pr
               <input type='text' name='email' placeholder='Fill your email' className='w-96 bg-white p-4 mx-8'/><br></br>
               <textarea name='message' placeholder='your message' className='w-96 bg-white p-4 mt-8 mx-8'></textarea><br></br>
               <br></br>
-              <button type='submit' className='bg-orange-950 rounded-sm p-4  ml-20'>Send Message</button>
+              <button type='submit' className='bg-orange-950 rounded-sm p-4 text-white font-semibold ml-20'>Send Message</button>
             </div>
             <div className='w-1/2 py-8'>
               <h2 className='font-semibold text-gray-600 '>Phone:</h2>
@@ -219,7 +219,7 @@ Tigersoft has built and delivered IT business solutions to the Government and pr
               <p>info@tigersoft.rw</p>
               <h2 className='font-semibold text-gray-600'>Website:</h2>
               <p>http://www.tigersoft.rw</p>
-              <h2 className='font-semibold text-gray-600'>Address:     KN 5 RD, 2 Floor Kigali Business Centre, KBC Building
+              <h2 className='font-semibold text-gray-600'>Address:    <span className='text-black'>KN 5 RD, 2 Floor Kigali Business Centre, KBC Building</span> 
 <br></br>
 Nyarugenge, Kigali, Rwanda</h2>
             </div>

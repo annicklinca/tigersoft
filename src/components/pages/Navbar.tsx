@@ -44,7 +44,7 @@ export default function Navbar () {
         <a href="/" className=" text-md font-normal  no-underline font-medium text-black hover:text-gray-200 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
           Contactus
         </a>
-        <a href="/" className="bg-amber-600 px-6 py-2  rounded-full text-md font-normal  no-underline font-medium text-white hover:text-gray-200 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
+        <a href="/Request" className="bg-amber-600 px-6 py-2  rounded-full text-md font-normal  no-underline font-medium text-white hover:text-gray-200 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
           Get Started
         </a>
         <div className="relative">
@@ -89,7 +89,7 @@ export default function Navbar () {
               <a href="#" className="text-sm leading-6 font-medium text-gray-600 hover:text-red-500 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
                Contactus
               </a>
-              <a href="#" className="text-sm  leading-6 font-medium text-gray-600 hover:text-red-500 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
+              <a href="/Request" className="text-sm  leading-6 font-medium text-gray-600 hover:text-red-500 focus:outline-none focus:text-yellow-700 transition ease-in-out duration-150">
               Get Started
               </a>
 
